@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv=Content-Type content="text/html">
+		<meta charset="UTF-8">
+		<link href="style.css" rel="stylesheet">
+	</head>
+    <title>Age Romkes | Schrijver</title>
+    <body>
+        <div class="small-header">
+            <img src="images/banner.jpg" alt="banner">
+            <h1>Age Romkes | Schrijver</h1>
+        </div>
+        <div class="navigation">
+            <div class="over-titel"><h2><a href="index.html#over">Over mij</a></h2></div>
+            <div class="coach-titel"><h2><a href="index.html#coach">Coach</a></h2></div>
+            <div class="toeruster-titel"><h2><a href="index.html#toeruster">Toeruster</a></h2></div>
+            <div><h2>|</h2></div>
+            <div class="schrijver-titel"><h2><a href="#">Schrijver</a></h2></div>
+        </div>
+        <div class="main" id="images">
+            <div class="downloads"><h3>Klik op een boek om de publicatie of een deel ervan te downloaden</h3></div>
+            <div class="image-display">
+                <a href="downloads/AllesWordtNieuw.pdf">
+                    <img src="images/boek15.jpg" alt="Alles wordt nieuw">
+                    <h3>Alles wordt nieuw</h3>
+                    <div class="info">
+                        <h4>Uitzicht als geloven moeilijk wordt</h4>
+                        <p>Van de serie: 'Motief'</p>
+                        <p>Amsterdam: Buijten & Schipperheijn, 2021</p>
+                    </div>
+                </a>
+                <a href="downloads/SamendeBijbelontdekken.pdf">
+                    <img src="images/boek14.png" alt="Samen de Bijbel ontdekken">
+                    <h3>Samen de Bijbel ontdekken</h3>
+                    <div class="info">
+                        <h4>Handboek voor bijbelstudie en bijbelkring</h4>
+                        <p>Geschreven samen met Hylke Britstra en Johannes Woudstra</p>
+                        <p>Utrecht: KokBoekencentrum, 2021</p>
+                    </div>
+                </a>
+                <a href="downloads/MijnjarenmetJezus.pdf">
+                    <img src="images/boek13.png" alt="Mijn jaren met Jezus">
+                    <h3>Mijn jaren met Jezus</h3>
+                    <div class="info">
+                        <h4>Het verhaal van zijn geliefde leerling</h4>
+                        <p>Van de serie: 'Motief'</p>
+                        <p>Amsterdam: Buijten & Schipperheijn, 2020</p>
+                    </div>
+                </a>
+                <a href="downloads/Ontdek Johannes.pdf">
+                    <img src="images/boek12.png" alt="Ontdek Johannes">
+                    <h3>Ontdek Johannes</h3>
+                    <div class="info">
+                        <h4>Verrassende bijbelstudies uit het evangelie van de geliefde discipel</h4>
+                        <p>Heerenveen: Groen, 2020</p>
+                    </div>
+                </a>
+                <a href="downloads/Inleiding Struikelblokken.pdf">
+                    <img src="images/boek11.png" alt="Struikelblokken">
+                    <h3>Struikelblokken</h3>
+                    <div class="info">
+                        <h4>Bijbelstudies over lastige teksten</h4>
+                        <p>Geschreven samen met Pieter Siebesma</p>
+                        <p>Utrecht: Boekencentrum, 2018</p>
+                    </div>
+                </a>
+                <a href="downloads/Bijbelvooriedereen.pdf">
+                    <img src="images/boek10.png" alt="De Bijbel voor iedereen">
+                    <h3>De Bijbel voor iedereen</h3>
+                    <div class="info">
+                        <p>Geschreven samen met Pieter Siebesma</p>
+                        <p>Utrecht: Boekencentrum, 2017</p>
+                    </div>
+                </a>
+                <a href="downloads/PriesterinNT.pdf">
+                    <img src="images/boek09.png" alt="Priestelijk pastoraat">
+                    <h3>Priestelijk pastoraat</h3>
+                    <div class="info">
+                        <h4>Een verrijking van de pastorale theologie</h4>
+                        <p>Redactie samen met Nico van der Voet</p>
+                        <p>Utrecht: Boekencentrum, 2017</p>
+                    </div>
+                </a>
+                <a href="downloads/Ontdekkendbijbellezen.pdf">
+                    <img src="images/boek08.png" alt="Ontdekkend bijbellezen">
+                    <h3>Ontdekkend bijbellezen</h3>
+                    <div class="info">
+                        <p>Heerenveen: Medema, 2013</p>
+                    </div>
+                </a>
+                <a href="downloads/hetnieuwebijbellezen.pdf">
+                    <img src="images/boek07.png" alt="Het nieuwe bijbellezen">
+                    <h3>Het nieuwe bijbellezen</h3>
+                    <div class="info">
+                        <p>Co-auteur: 'Ontdekkend bijbellezen'</p>
+                        <p>Heerenveen: Medema, 2011</p>
+                    </div>
+                </a>
+                <a href="downloads/Openbaring.pdf">
+                    <img src="images/boek06.png" alt="Openbaring. Uitzicht op het Rijk van God">
+                    <h3>Openbaring. Uitzicht op het Rijk van God</h3>
+                    <div class="info">
+                        <p>Van de serie 'Luisterend leven'</p>
+                        <p>Zoetermeer: Boekencentrum, 2010</p>
+                    </div>
+                </a>
+                <a href="downloads/DagboekThePassion-week5.pdf">
+                    <img src="images/boek05.png" alt="Wat werd er met de opstanding van Jezus bereikt?">
+                    <h3>Wat werd er met de opstanding van Jezus bereikt?</h3>
+                    <div class="info">
+                        <p>Leeuwarden, 2006</p>
+                    </div>
+                </a>
+                <a href="downloads/HeiligeGeest.pdf">
+                    <img src="images/boek04.png" alt="Gaven voor de gemeente">
+                    <h3>Gaven voor de gemeente</h3>
+                    <div class="info">
+                        <p>Co-auteur: 'Het werk van de Heilige Geest volgens het Nieuwe Testament'</p>
+                        <p>Zoetermeer: Boekencentrum, 2005</p>
+                    </div>
+                </a>
+                <a href="downloads/Bijbellezentoenennu.pdf">
+                    <img src="images/boek03.jpg" alt="Hoog Tijd voor de Bijbel">
+                    <h3>Hoog Tijd voor de Bijbel</h3>
+                    <div class="info">
+                        <p>Co-auteur: 'Bijbellezen toen en nu'</p>
+                        <p>Sensor, 2004</p>
+                    </div>
+                </a>
+                <a href="downloads/MtVergeven.pdf">
+                    <img src="images/boek02.png" alt="Matteüs. Thuiskomen in het Rijk van God">
+                    <h3>Matteüs. Thuiskomen in het Rijk van God</h3>
+                    <div class="info">
+                        <p>Van de serie 'Luisterend leven'</p>
+                        <p>Zoetermeer: Boekencentrum, 2001</p>
+                    </div>
+                </a>
+                <a href="downloads/Bijbellezen.pdf">
+                    <img src="images/boek01.png" alt="Bijbellezen, de moeite waard">
+                    <h3>Bijbellezen, de moeite waard</h3>
+                    <div class="info">
+                        <p>Utrecht: IFES-Nederland, 1993</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="footer">
+            <p>Email: <a>age.romkes&#64;planet.nl</a></p>
+            <p>Telefoon: <a>0318-624229</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/age-romkes">age-romkes</a></p>
+        </div>
+    </body>

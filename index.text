@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv=Content-Type content="text/html">
+		<meta charset="UTF-8">
+		<link href="style.css" rel="stylesheet">
+	</head>
+    <title>Age Romkes | Home</title>
+    <body>
+        <div class="header">
+            <img src="images/banner.jpg" alt="banner">
+            <div class="title">
+                <h1>Age Romkes</h1>
+            </div>
+        </div>
+        <div class="navigation">
+            <div class="over-titel"><h2><a href="#over">Over mij</a></h2></div>
+            <div class="coach-titel"><h2><a href="#coach">Coach</a></h2></div>
+            <div class="toeruster-titel"><h2><a href="#toeruster">Toeruster</a></h2></div>
+            <div><h2>|</h2></div>
+            <div class="schrijver-titel"><h2><a href="schrijver.html">Schrijver</a></h2></div>
+        </div>
+        <div class="main">
+            <div class="clear" id="over"></div>
+            <div class="text-right">
+                <div>
+                    <div class="over-titel">
+                        <h2><a href="#over">Over mij</a></h2>
+                    </div>
+                    <p>Het voordeel van het bereiken van de aow-leeftijd is dat je kunt kiezen wat je nog wel en niet wilt doen. Het nadeel is de dreiging die er uitgaat van de geraniums in de vensterbank. Dus blijf ik met alle plezier nog een tijdlang actief op het gebied van lesgeven, toerusten en schrijven. Als er iets is wat ik voor u kan betekenen, dan hoor ik het graag!</p>
+                    <h3>Opleiding & werkervaring</h3>
+                    <ul class="list">
+                        <li><p>Doctoraal theologie in Kampen (Oudestraat) en Apeldoorn. Hoofdvak Gemeenteopbouw, bijvakken Nieuwe Testament en Agologie</p>
+                        <li><p>Algemeen en internationaal stafwerker bij IFES-Nederland: toerusting en begeleiding van evangelische en reformatorische studentenverenigingen, vooral op het gebied van bestuur, bijbelstudie en evangelisatie</p></li>
+                        <li><p>Staflid-docent aan bijbelschool <a href="https://www.dewittenberg.nl/">De Wittenberg</a>: coördinator propedeuse, eenjarige opleidingen en publiciteit en fondswerving; docent, lid staf onderwijs en mentor</p></li>
+                        <li><p>Docent aan de Academie Theologie van de <a href="https://www.che.nl/">Christelijke Hogeschool Ede</a>: docent Nieuwe Testament, Gemeenteopbouw, Hermeneutiek en Bijbelstudievaardigheden; studieloopbaanbegeleider, vooral op het gebied van maatwerkleren; stage- en afstudeerbegeleider; lid team Beroepsspecialisatie Gemeenteopbouw</p></li>
+                        <li><p>Initiatiefnemer van Artios en docent bij <a href="http://www.artios.nl/">Artios</a> Bijbelschool</p></li>
+                        <li><p>Docent bij onder andere het <a href="https://www.evangelisch-college.nl/">Evangelisch College</a></p></li>
+                    </ul>
+                </div>
+                <img src="images/drs-age-romkes.jpg" alt="Age Romkes" id="left">
+            </div>
+            <div class="clear" id="coach"></div>
+            <div class="text-left">
+                <div>
+                    <div class="coach-titel">
+                        <h2><a href="#coach">Coach</a></h2>
+                    </div>
+                    <p>Als coach ben ik niet gecertificeerd of aangesloten bij een beroepsvereniging. Wel heb ik meer dan vijfentwintig jaar ervaring in het persoonlijk begeleiden van studenten, gemeenteleden en anderen. Ook ben ik als adviseur en coach betrokken geweest bij verschillende gemeenteopbouwtrajecten. Vaak worden de volgende fasen doorlopen: vertellen - begrijpen - aanvaarden - veranderen.</p>
+                    <h3>Kwaliteiten</h3>
+                    <ul class="list">
+                        <li><p>Luisteren en vragen stellen</p></li>
+                        <li><p>Betrouwbaarheid en geheimhouding</p></li>
+                        <li><p>Meedenken en alternatieven aanreiken</p></li>
+                    </ul>
+                </div>
+                <div class="box">
+                    <div>
+                        <h3>Vergoeding</h3>
+                        <p>Het intakegesprek is gratis. Voor vervolggesprekken wordt €60 per anderhalf uur plus eventuele reiskosten in rekening gebracht.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear" id="toeruster"></div>
+            <div class="text-right">
+                <div>
+                    <div class="toeruster-titel">
+                        <h2><a href="#toeruster">Toeruster</a></h2>
+                    </div>
+                    <p>Al mijn hele carrière rust ik aankomende professionals en vrijwilligers toe voor werk in het Koninkrijk van God, zoals (kring-)leiders van christelijke studentenverenigingen, vrijwilligers in de gemeente en aankomende godsdienst pastoraal werkers en leraren godsdienst en levensbeschouwing.</p>
+                    <h3>Onderwerpen</h3>
+                    <ul class="list">
+                        <li><p>Ontdekkend bijbellezen, hoe doe je dat?</p></li>
+                        <li><p>Het leiden van een kringgesprek, vooral door het stellen van vragen</p></li>
+                        <li><p>Het opzetten en begeleiden van kringen in de gemeente</p></li>
+                        <li><p>Verschillende manieren van bijbelstudie en creatieve werkvormen</p></li>
+                        <li><p>Het formuleren van visie en beleid voor de gemeente</p></li>
+                        <li><p>Begeleiden van veranderingsprocessen</p></li>
+                    </ul>
+                    <p>Andere onderwerpen op het terrein van de Bijbel, Bijbelstudie en Gemeenteopbouw zijn ook mogelijk.</p>
+                </div>
+                <div class="box" id="left">
+                    <div>
+                        <h3>Vergoeding</h3>
+                        <p>De gevraagde vergoeding is afhankelijk van de draagkracht van de opdrachtgever en de omvang van de voorbereiding maar zal over het algemeen liggen tussen €60 en €120 per dagdeel, plus reiskosten.</p>
+                        <h3>Maatwerk</h3>
+                        <p>De precieze invulling van de toerusting gaat altijd in overleg.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear" id="schrijver"></div>
+            <div>
+                <div class="schrijver-titel">
+                    <h2><a href="#schrijver">Schrijver</a></h2>
+                </div>
+                <div class="image-display">
+                    <a href="schrijver.html#images">
+                        <img src="images/boek15.jpg" alt="Alles wordt nieuw">
+                        <h3>Alles wordt nieuw</h3>
+                        <p>Uitzicht als geloven moeilijk wordt</p>
+                    </a>
+                    <a href="schrijver.html#images">
+                        <img src="images/boek14.png" alt="Samen de Bijbel ontdekken">
+                        <h3>Samen de Bijbel ontdekken</h3>
+                        <p>Handboek voor bijbelstudie en bijbelkring</p>
+                    </a>
+                    <a href="schrijver.html#images">
+                        <img src="images/boek13.png" alt="Mijn jaren met Jezus">
+                        <h3>Mijn jaren met Jezus</h3>
+                        <p>Het verhaal van zijn geliefde leerling</p>
+                    </a>
+                    <a href="schrijver.html#images">
+                        <img src="images/boek12.png" alt="Ontdek Johannes">
+                        <h3>Ontdek Johannes</h3>
+                        <p>Verrassende bijbelstudies uit het evangelie van de geliefde discipel</p>
+                    </a>
+                </div>
+                <div class="more">
+                    <p><a href="schrijver.html">Meer boeken ></a></p>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="footer">
+            <p>Email: <a>age.romkes&#64;planet.nl</a></p>
+            <p>Telefoon: <a>0318-624229</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/age-romkes">age-romkes</a></p>
+        </div>
+    </body>
+</html>
